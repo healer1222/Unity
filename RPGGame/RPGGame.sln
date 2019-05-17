@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGGame.Plugins", "RPGGame.Plugins.csproj", "{92D131FC-CB66-C199-FB90-44751D073332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGGame", "RPGGame.csproj", "{0B28233D-4011-BFB5-2B4D-27777F763D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGGame.Editor.Plugins", "RPGGame.Editor.Plugins.csproj", "{7BEF27FB-2CF5-B67B-8AFF-8D8A1BDC615E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D131FC-CB66-C199-FB90-44751D073332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D131FC-CB66-C199-FB90-44751D073332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D131FC-CB66-C199-FB90-44751D073332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D131FC-CB66-C199-FB90-44751D073332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B28233D-4011-BFB5-2B4D-27777F763D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B28233D-4011-BFB5-2B4D-27777F763D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B28233D-4011-BFB5-2B4D-27777F763D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B28233D-4011-BFB5-2B4D-27777F763D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BEF27FB-2CF5-B67B-8AFF-8D8A1BDC615E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEF27FB-2CF5-B67B-8AFF-8D8A1BDC615E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEF27FB-2CF5-B67B-8AFF-8D8A1BDC615E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEF27FB-2CF5-B67B-8AFF-8D8A1BDC615E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
