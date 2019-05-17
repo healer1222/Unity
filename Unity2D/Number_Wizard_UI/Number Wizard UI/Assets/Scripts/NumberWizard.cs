@@ -17,6 +17,8 @@ public class NumberWizard : MonoBehaviour {
 
 
         StartGame();
+        //asd
+        
 
 
 
